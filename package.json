@@ -1,6 +1,6 @@
 {
   "name": "route4express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Route 4 express",
   "main": "lib/index.js",
   "scripts": {
