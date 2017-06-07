@@ -1,0 +1,35 @@
+{
+  "name": "route4express",
+  "version": "1.0.0",
+  "description": "Route 4 express",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/standard",
+    "test": "./node_modules/.bin/mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggstalder/route4express.git"
+  },
+  "keywords": [
+    "routes",
+    "express"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.x.x",
+    "npm": ">= 3.x"
+  },
+  "bugs": {
+    "url": "https://github.com/ggstalder/route4express/issues"
+  },
+  "homepage": "https://github.com/ggstalder/route4express#readme",
+  "peerDependencies": {
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "standard": {
+    "env": "mocha"
+  }
+}
