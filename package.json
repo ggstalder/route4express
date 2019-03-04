@@ -1,6 +1,6 @@
 {
   "name": "route4express",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Route 4 express",
   "main": "lib/index.js",
   "scripts": {
@@ -24,12 +24,14 @@
     "url": "https://github.com/ggstalder/route4express/issues"
   },
   "homepage": "https://github.com/ggstalder/route4express#readme",
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "standard": "^10.0.2"
   },
   "standard": {
     "env": "mocha"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
