@@ -1,6 +1,6 @@
 {
   "name": "route4express",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Route 4 express",
   "main": "lib/index.js",
   "scripts": {
@@ -32,6 +32,6 @@
     "env": "mocha"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }

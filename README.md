@@ -69,14 +69,7 @@ module.exports = [
 
 ## Installation
 
-### Installing joi4express
+### Installing route4express
 ```
   npm install route4express --save
-```
-
-## Run Tests
-Tests are written with mocha/chai.
-
-``` bash
-  $ npm test
 ```
